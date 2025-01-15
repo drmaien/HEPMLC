@@ -29,7 +29,7 @@ The tool is based on the work described in [arXiv:2409.05453](https://arxiv.org/
 
 ## Installation
 
-1. First install ScannerS following their [installation guide](https://gitlab.com/jonaswittbrodt/ScannerS).
+1. If you do not already have labeled data, you can start by installing the public tool ScannerS following their [installation guide](https://gitlab.com/jonaswittbrodt/ScannerS).
 
 2. Clone HEPMLC into your ScannerS build directory:
 ```bash
