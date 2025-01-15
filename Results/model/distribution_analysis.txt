@@ -1,0 +1,12 @@
+Jensen-Shannon Divergence: 0.2184578897987136
+
+Distribution Comparison:
+(0, 0, 0, 1): True=12, Pred=0
+(0, 0, 1, 0): True=5, Pred=11
+(1, 1, 0, 0): True=0, Pred=1
+(0, 1, 0, 0): True=0, Pred=3
+(0, 1, 1, 0): True=0, Pred=1
+(1, 0, 1, 0): True=1, Pred=0
+(0, 0, 0, 0): True=127, Pred=125
+(1, 0, 0, 1): True=1, Pred=1
+(1, 0, 0, 0): True=4, Pred=8
