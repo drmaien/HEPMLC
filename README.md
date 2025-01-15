@@ -39,10 +39,12 @@ git clone https://github.com/drmaien/HEPMLC.git
 
 ## Example Usage
 Detailed workflow exploiting all HEPMLC functionalities can be found in HEPMLC/notebooks
-For a basic example:
 
+For a basic example:
+```bash
 cd HEPMLC
 jupyter notebook HEPMLC.ipynb 
+```
 
 Follow the notebook sections to:
 1. Select a physics model
