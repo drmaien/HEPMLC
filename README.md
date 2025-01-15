@@ -35,6 +35,7 @@ The tool is based on the work described in [arXiv:2409.05453](https://arxiv.org/
 ```bash
 cd ScannerS/build
 git clone https://github.com/drmaien/HEPMLC.git
+```
 
 ## Example Usage
 Detailed workflow exploiting all HEPMLC functionalities can be found in HEPMLC/notebooks
