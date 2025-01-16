@@ -2,7 +2,7 @@
 
 HEPMLC is a tool designed for training multi-label classifiers to predict theoretical and experimental constraints in extensions of the Standard Model. 
 
-This version works with the public tool ScannerS. However, data preprocessing, optimization, training, and evaluation modules work with any approprately labeled dataset, with features (input parameters) and binary labels (constraints valid/invalid).
+This version works with the public tool ScannerS. However, data preprocessing, optimization, training, and evaluation modules work with any appropriately labeled dataset, with features (input parameters) and binary labels (constraints valid/invalid).
 
 ## Description
 
