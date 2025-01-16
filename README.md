@@ -21,7 +21,7 @@ The tool is based on the work described in [arXiv:2409.05453](https://arxiv.org/
 
 - Python 3.8+
 - TensorFlow 2.x
-- ScannerS ([Installation Guide](https://gitlab.com/jonaswittbrodt/ScannerS))
+- ScannerS ([Installation Guide](https://gitlab.com/jonaswittbrodt/ScannerS)), if you don't have a labeled dataset of your BSM model.
 - Additional Python packages:
  - numpy
  - pandas
