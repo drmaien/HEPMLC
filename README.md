@@ -61,9 +61,13 @@ If you use HEPMLC in your research, please cite:
 https://doi.org/10.48550/arXiv.2409.05453).
 
 If you use HEPMLC with ScannerS for data generation, then please also cite:
-- [ScannerS](https://gitlab.com/jonaswittbrodt/ScannerS) and its associated packages/papers. 
+- [ScannerS](https://gitlab.com/jonaswittbrodt/ScannerS) and its associated packages/papers.
 
 Please also cite relevant data and ML packages, referenced in 2409.05453.
+
+## Paper dataset
+
+The dataset used in the paper can be found in [Mendeley Data](https://data.mendeley.com/preview/sg699fykng?a=c4f6d85c-fd4d-44ad-a1ad-006980900289)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
